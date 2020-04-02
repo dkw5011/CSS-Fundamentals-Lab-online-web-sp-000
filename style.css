@@ -7,3 +7,7 @@ body {
 header, figure, nav {
  text-align:center
 }
+
+nav a {
+  margin: 10px;
+}
