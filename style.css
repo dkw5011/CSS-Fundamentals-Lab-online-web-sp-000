@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 
-header, figure, nav, section p {
+header, figure, nav, section#featured-property p {
  text-align:center
 }
 
