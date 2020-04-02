@@ -23,5 +23,6 @@ figcaption {
 }
 
 #details div{
-  float: left
+  float: left;
+  display: block
 }
